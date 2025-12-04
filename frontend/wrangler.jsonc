@@ -1,0 +1,9 @@
+{
+  "name": "frontend",
+  "main": "worker/index.ts",
+  "compatibility_date": "2025-12-04",
+  "assets": { "not_found_handling": "single-page-application" },
+  "observability": {
+    "enabled": true
+  }
+}
